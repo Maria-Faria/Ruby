@@ -31,5 +31,3 @@
     1. *gem install bundler*
 3. Dentro da pasta, criar um arquivo chamado Gemfile
     1. colocar source ‘https://rubygems.org’
-    
-    ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/48347520-d389-4c9f-8b1c-fc7878f42221/ea91fa72-04bd-4f55-8198-a133e5a4d9dc/image.png)
